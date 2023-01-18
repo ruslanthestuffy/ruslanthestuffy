@@ -8,7 +8,7 @@ Work as a web-engineer (more time as Frontend) for 4 years. Started when I was a
 
 * ✉️  You can contact me at [bigjohnnyscript@gmail.com](mailto:bigjohnnyscript@gmail.com) or [Telegram](https://t.me/ruslanthestuffy) (preferred) 
 * 🚀  I'm currently working on [Magic Square](http://magicsquare.io)
-* 🧠  I'm learning infrastructure stuff, Back End, and hone my FE
+* 🧠  I'm learning infrastructure stuff, Back End, and hone my FE skills
 
 ### Skills
 
