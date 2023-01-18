@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan Makaev
 =====================================================================================================================================
 
-Imma Front End magician ( v v )
+Ima Front End magician ( v v )
 -------------------------------
 
 Work as a web-engineer (more time as Frontend) for 4 years. Started when I was a student. Meticulous to both user and developer experience: Quality, Convenience and Understandability of the code Like to talk with people, go to a gym, swimming, photography, to make music, to play games
